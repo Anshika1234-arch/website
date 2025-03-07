@@ -8,7 +8,7 @@ and run.
 
 * [hello-tokio](tutorial-code/hello-tokio/src/main.rs)
 * [spawning](tutorial-code/spawning/src/main.rs)
-* [shared-state](tutorial-code/shared-state/src/main.rs)
+* [shared-state](tutorial-code/shared-state/src/main.rs
 * [channels](tutorial-code/channels/src/main.rs)
 * [io](tutorial-code/io)
     * [echo-server-copy](tutorial-code/io/src/echo-server-copy.rs)
